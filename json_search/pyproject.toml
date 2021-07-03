@@ -2,7 +2,7 @@
 name = "json_search"
 version = "0.1.0"
 description = ""
-authors = ["Dibyajyoti Roy <dibyajyoti121987@gmail.com>"]
+authors = ["Ankita Medhi <ankita.medhi1@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
